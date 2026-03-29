@@ -6,6 +6,8 @@ Also hab ich mir die Funktionen, die ich benötige, selbst gebaut.
 
 Parascribe ist eine Tray-basierte Desktop-Anwendung, die stabiles lokales Speech-to-Text (STT) und optionale KI-gestützte Textverarbeitung bietet. Das Design orientiert sich an der **GNOME/Adwaita** Designsprache für ein natives und sauberes Nutzererlebnis.
 
+![UI](./UI.png)
+
 ## Funktionen
 
 -  **Lokales STT**: Nutzt `sherpa-onnx` mit dem `NVIDIA Parakeet-TDT 0.6b` Modell für hochpräzise, lokale Transkription ohne Cloud-Zwang.
