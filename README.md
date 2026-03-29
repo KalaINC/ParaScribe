@@ -1,8 +1,8 @@
 # Parascribe with NVIDIA parakeet
 
-Parascribe ist inspiriert von OpenWhispr und existiert nur, weil OpenWhispr aktuell unter Ubuntu/Wayland zickt, **ich empfehle sonst OpenWhispr zu verwenden**.  
-Also hab ich mir die Funktionen, die ich benötige, selbst gebaut.  
-[OpenWhispr GitHub](https://github.com/OpenWhispr/openwhispr)
+Parascribe ist inspiriert von OpenWhispr und existiert nur, weil OpenWhispr aktuell unter Ubuntu/Wayland zickt, also hab ich mir die Funktionen, die ich benötige, selbst gebaut.   
+**Ich empfehle sonst OpenWhispr zu verwenden**.  
+-> Alternativ + Besser: [OpenWhispr GitHub](https://github.com/OpenWhispr/openwhispr)
 
 Parascribe ist eine Tray-basierte Desktop-Anwendung, die stabiles lokales Speech-to-Text (STT) und optionale KI-gestützte Textverarbeitung bietet. Das Design orientiert sich an der **GNOME/Adwaita** Designsprache für ein natives und sauberes Nutzererlebnis.
 
