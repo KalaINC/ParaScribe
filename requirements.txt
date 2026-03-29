@@ -1,0 +1,6 @@
+PySide6
+sherpa-onnx>=1.10.19
+sounddevice
+soundfile
+numpy
+openai
